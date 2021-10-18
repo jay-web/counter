@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  font-size: 10rem;
+}
+
+button {
+  width: 5rem;
+  height: 2rem;
+  padding: .4rem;
+  margin: .5rem;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: lightcoral;
+  color: black;
+  border: none;
+}
